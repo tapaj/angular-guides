@@ -8,4 +8,4 @@ ng add @angular-eslint/schematics
 
 ---
 
-[Back to TOC](./README.md)
+[Back to Angular Guides List](./README.md)
