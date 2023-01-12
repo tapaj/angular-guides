@@ -5,3 +5,4 @@ A collection of step-by-step walk-through for performing tasks in Angular. Use i
 ## Table of Content
 
 - [ESLint Setup](./eslint-setup.md)
+- [Code Coverage with Karma](./karma-code-coverage.md)
