@@ -5,3 +5,7 @@ By default, Angular follows a bring-your-own-linter policy and starts without an
 ```shell
 ng add @angular-eslint/schematics
 ```
+
+---
+
+[Back to TOC](./README.md)
